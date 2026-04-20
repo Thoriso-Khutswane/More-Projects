@@ -14,5 +14,6 @@
 💻 [View The Project Code]()
 
 <p align="center">
-  <img src="">
+  <img src="HomeTab.png" width="45%" />
+  <img src="AddEditRiskTab.png" width="45%" />
 </p>
