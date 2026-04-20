@@ -13,8 +13,9 @@
 
 💻 [View The Project Code]()
 
+
 <p align="center">
-  <img src="https://github.com/Thoriso-Khutswane/More-Projects/blob/main/pics/HomeTab.png" width="45%" />
-  <img src="https://github.com/Thoriso-Khutswane/More-Projects/blob/main/pics/AddEditRiskTab.png" width="45%" />
-  <img src="https://github.com/Thoriso-Khutswane/More-Projects/blob/main/pics/View%20Risk%20Tab.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/More-Projects/main/pics/HomeTab.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/More-Projects/main/pics/AddEditRiskTab.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/More-Projects/main/pics/View%20Risk%20Tab.png" width="45%" />
 </p>
