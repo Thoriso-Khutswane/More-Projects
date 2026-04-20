@@ -11,7 +11,7 @@
 
 <span style="color: #91E200;">**The Impact:**</span> The solution enabled organizations to move from reactive to proactive risk management by real-time risk monitoring, digitizing risk capture and management processes, iimplementing data-driven decision making, delivering real-time analytics and visual insights through BI dashboards which improved organizational risk resilience.
 
-🔗 [Download & View The Dashboard On Power BI Desktop]() | 💻 [View The Project Code]()
+💻 [View The Project Code]()
 
 <p align="center">
   <img src="">
