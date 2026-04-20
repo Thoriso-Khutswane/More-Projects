@@ -14,6 +14,7 @@
 💻 [View The Project Code]()
 
 <p align="center">
-  <img src="HomeTab.png" width="45%" />
-  <img src="AddEditRiskTab.png" width="45%" />
+  <img src="https://github.com/Thoriso-Khutswane/More-Projects/blob/main/pics/HomeTab.png" width="45%" />
+  <img src="https://github.com/Thoriso-Khutswane/More-Projects/blob/main/pics/AddEditRiskTab.png" width="45%" />
+  <img src="https://github.com/Thoriso-Khutswane/More-Projects/blob/main/pics/AddEditRiskTab.png" width="45%" />
 </p>
