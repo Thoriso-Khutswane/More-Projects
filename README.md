@@ -1,8 +1,10 @@
+[My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/1imJW-NCCOQVXNF-ICz-ubKvQnt5wgMbT/view?usp=sharing) | [Email Me](mailto:khutswanethoriso@gmail.com)  
 
 <img src="ProfilePicture.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
-[My LinkedIn](https://linkedin.com/in/thoriso-khutswane) | [View My Resume](https://drive.google.com/file/d/1imJW-NCCOQVXNF-ICz-ubKvQnt5wgMbT/view?usp=sharing) | [Email Me](mailto:khutswanethoriso@gmail.com)
+
 
 ## 📊 More Featured Projects
+
 
 ### 3. BI-Driven Risk Assessment Framework for Organizations(InProgress-Awaiting dissertation to be published)
 
