@@ -5,7 +5,7 @@
 ## 📊 More Featured Projects
 
 
-### 3. BI-Driven Risk Assessment Framework for Organizations(InProgress-Awaiting dissertation to be published)
+### 3. BI-Driven Risk Assessment Framework for Organizations(In Progress – Awaiting Dissertation Publication Confirmation)
 
 <span style="color: red;">**The Problem:** </span>Traditional risk assessment methods are often manual(spreadsheet), time consuming, and largely reactive rather than proactive. They rely heavily on periodic reviews, static reports, and historical data, which limits their ability to detect emerging risks as conditions change. As a result, organizations lack real‑time insights into evolving riks, reducing their capacity to respond quickly, prevent incidents, and make informed decisions. This gap increases exposure to operational, financial, and compliance risks in fast moving and complex environments.
 
