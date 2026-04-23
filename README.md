@@ -11,7 +11,7 @@
 
 **The Tools Used:** Microsoft Power Apps, SharePoint , Power BI, Artificial Intelligence
 
-<span style="color: #91E200;">**The Impact:**</span> The solution enabled organizations to move from reactive to proactive risk management by real-time risk monitoring, digitizing risk capture and management processes, iimplementing data-driven decision making, delivering real-time analytics and visual insights through BI dashboards which improved organizational risk resilience.
+<span style="color: #91E200;">**The Impact:**</span> The solution enabled organizations to move from reactive to proactive risk management by real-time risk monitoring, digitizing risk capture and management processes, implementing data-driven decision making, delivering real-time analytics and visual insights through BI dashboards which improved organizational risk resilience.
 
 💻 [View The Project Code]()
 
