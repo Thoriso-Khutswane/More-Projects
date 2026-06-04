@@ -2,7 +2,7 @@
 <img src="ProfilePicture.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
 <p align="left">
-  <a href="https://thoriso-khutswane.github.io/More-Projects/">
+  <a href="https://thoriso-khutswane.github.io/">
     <img src="https://img.shields.io/badge/Home!-cc0000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
