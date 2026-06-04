@@ -1,6 +1,11 @@
 
 <img src="ProfilePicture.jpg" alt="My Profile Picture" style="float: right; width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-left: 20px; margin-bottom: 20px;">
 
+<p align="left">
+  <a href="https://thoriso-khutswane.github.io/More-Projects/">
+    <img src="https://img.shields.io/badge/Home!-cc0000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 📊 More Featured Projects
 
@@ -19,11 +24,7 @@ Right now, the business doesn’t have a clear understanding of which customers 
   <img src="https://raw.githubusercontent.com/Thoriso-Khutswane/Customer-Churn-Analysis/main/images/ExecutiveOverview2.png" width="400" height="200">
 </p>
 
-<p align="center">
-  <a href="https://thoriso-khutswane.github.io/More-Projects/">
-    <img src="https://img.shields.io/badge/View-More%20Projects-blue?style=for-the-badge" />
-  </a>
-</p>
+
 
 
 ### 4. BI-Driven Risk Assessment Framework for Organizations(In Progress – Awaiting Dissertation Publication Confirmation)
